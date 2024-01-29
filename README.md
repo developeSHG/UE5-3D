@@ -1,5 +1,5 @@
-# UE5-3D
-<h3>Unreal Engine 5 - 3D</h3>
+# UE5-3D_BP
+<h3>Unreal Engine 5 - 3D (Blueprint)</h3>
 
 <b>Category</b> : https://song-ift.tistory.com/category/UE5%20%3A%203D%20%28Blueprint%29
 
