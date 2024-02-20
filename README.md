@@ -1,4 +1,4 @@
-![2024-02-20 17;08;20](https://github.com/developeSHG/UE5-3D_BP/assets/79896868/a087bb2a-66b2-4489-ae2b-e447f718aa75)# UE5-3D_BP
+# UE5-3D_BP
 <h3>Unreal Engine 5 - 3D (Blueprint)</h3>
 
 <b>Category</b> : https://song-ift.tistory.com/category/UE5%20%3A%203D%20%28Blueprint%29
